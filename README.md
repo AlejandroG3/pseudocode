@@ -1,1 +1,1 @@
-# pseudocode
+primera parte del trabajo
